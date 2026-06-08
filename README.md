@@ -60,3 +60,8 @@ My focus is on solving real-world problems through data, building analytical sol
 ---
 
 ## Featured Projects
+
+### 🛒 End-to-End Marketing Analytics
+> SQL Server · Python · Power BI
+
+......
