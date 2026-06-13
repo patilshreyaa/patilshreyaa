@@ -47,7 +47,6 @@ My focus is on solving real-world problems through data, building analytical sol
 ![ETL](https://img.shields.io/badge/ETL-00A3E0?style=flat-square)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square\&logo=apacheairflow\&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square\&logo=apachespark\&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square\&logo=apachekafka\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
 #### Cloud Platforms & Other Technologies
@@ -55,7 +54,6 @@ My focus is on solving real-world problems through data, building analytical sol
 ![Statistics](https://img.shields.io/badge/Statistics-0F766E?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
 
 ---
 
