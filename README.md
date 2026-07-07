@@ -64,3 +64,4 @@ My focus is on solving real-world problems through data, building analytical sol
 
 An interactive **Marketing Analytics Dashboard** built in **Power BI** to analyze campaign performance, customer behavior, product insights, and business growth. The project features **six interactive dashboards** with KPIs, DAX measures, and dynamic visualizations for revenue, conversions, customer lifetime value (LTV), A/B testing, and funnel analysis. It demonstrates skills in **Power BI, DAX, data modeling, and business intelligence storytelling**.
 
+[view repositary](https://github.com/patilshreyaa/End-to-End-Marketing-Analytics)
